@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="title_home">Search</string>
+    <string name="title_saved">Favorites</string>
+    <string name="title_profile">Results</string>
+    <string name="title_activity_search_information">SearchInformation</string>
+    <string name="results_default_message">Please enter your preferences in the search tab.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
